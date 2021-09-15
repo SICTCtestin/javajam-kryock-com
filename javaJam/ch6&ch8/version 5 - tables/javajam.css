@@ -144,6 +144,9 @@ img{
 #desktop{
     display: none;
 }
+table,th,tb{
+
+}
 @media(min-width:600px){
     header{
         text-align: center;
